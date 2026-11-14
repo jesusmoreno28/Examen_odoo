@@ -11,6 +11,9 @@
     ],
 
     "data": [
-        "views/res_partner_views.xml",
-    ],
+    "security/ir.access.csv",
+    "data/tienda_convenio_data.xml",
+    "views/res_partner_views.xml",
+    "views/tienda_convenio_views.xml",
+],
 }
